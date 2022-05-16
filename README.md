@@ -6,7 +6,6 @@ Full Stack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [panditasagar at gmail dot com]
-* 🧠  I'm learning React
 
 ### Skills
 
