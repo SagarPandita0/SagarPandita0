@@ -1,15 +1,18 @@
 Hi 👋 My name is Sagar Pandita
 ==============================
 
-Full Stack Developer
+Cyber Security Grad Student at Carnegie Mellon University | Full Stack Developer
 --------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm based in United States
 * ✉️  You can contact me at [panditasagar at gmail dot com]
 
 ### Skills
 
 <p align="left">
+<a href="https://www.wireshark.org" target="_blank" rel="noreferrer"><img src="https://www.wireshark.org/assets/theme-2015/images/wireshark_logo.png" width="150" height="40" alt="Wireshark" /></a>
+<a href="https://www.metasploit.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Metasploit_logo_and_wordmark.png/180px-Metasploit_logo_and_wordmark.png" width="150" height="40" alt="Wireshark" /></a>  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
